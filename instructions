@@ -1,0 +1,8 @@
+
+dentro del archivo Main el cual es un ZIP podran encontrar notebooks de google collab de los aprendizajes supervisados y no supervisados, de igual manera los data sets
+
+To run the reinforcement codes you need to download the following libraries
+pip install gym numpy
+pip install gym
+
+Likewise, all the codes must be in the same folder since some of them are like functions that are called for the main, which is the "Train" code.
